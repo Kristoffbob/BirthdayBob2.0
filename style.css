@@ -1,0 +1,29 @@
+h1{
+
+                color: rgb(255, 255, 255);
+                         font-size: 20px;
+              background: blue;
+              font-style:italic
+}
+h2{
+    color:rgb(124, 199, 199)
+}
+img{
+    width: 250px;
+    height: auto;
+}
+ 
+html{
+    background: black;
+}
+h3{
+    color: white;
+}
+image {
+    background-color: lightblue;
+    border: 50px;solid green;
+}
+
+
+
+
